@@ -15,7 +15,7 @@ Nhận thấy một số vùng trên khuôn mặt có thể tiếp cận đượ
 * Nose [27, 35]
 * Jaw [0, 17]
 
-Mapping này được hiện qua `FACIAL_LANDMARKS_IDXS` ordered dictionary bên trong `face_imutils` của thư viện `imutils`.
+Mapping này được hiện qua `FACIAL_LANDMARKS_IDXS` ordered dictionary bên trong `face_imutils` của thư viện `imutils`. Trong file `helper_functions.py` biểu diễn hai hàm tiện ích đã được build trong thư viện `imutils` để dễ hiểu hơn.
 
 **Các thư viện sử dụng**:
 * numpy
