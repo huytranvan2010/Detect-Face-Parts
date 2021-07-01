@@ -23,4 +23,6 @@ Mapping này được hiện qua `FACIAL_LANDMARKS_IDXS` ordered dictionary bên
 * opencv
 * imutils
 
+https://pypi.org/project/opencv-python/ 
+
 

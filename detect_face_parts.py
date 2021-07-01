@@ -1,5 +1,5 @@
 # USAGE
-# python detect_face_parts.py --shape_predictor shape_predictor_68_face_landmarks.dat --image 00001.png
+# python detect_face_parts.py --shape_predictor shape_predictor_68_face_landmarks.dat --image input_image.png
 from imutils import face_utils
 import argparse
 import cv2 
