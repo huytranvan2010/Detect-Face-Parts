@@ -25,4 +25,9 @@ Mapping này được hiện qua `FACIAL_LANDMARKS_IDXS` ordered dictionary bên
 
 https://pypi.org/project/opencv-python/ 
 
+**Cách chạy**
+```python
+python detect_face_parts.py --shape_predictor shape_predictor_68_face_landmarks.dat --image input_image.png
+```
+
 
